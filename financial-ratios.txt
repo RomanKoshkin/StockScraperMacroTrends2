@@ -1,0 +1,54 @@
+financial-ratios
+https://www.macrotrends.net/stocks/charts/GOOG/alphabet/financial-ratios
+
+
+Assets And Liabilities
+
+total-assets
+total-liabilities
+long-term-debt
+total-share-holder-equity
+cash-on-hand
+
+
+Price Ratios
+
+pe-ratio (stock price, ttm net eps)
+price-sales (Stock Price	TTM Sales p)
+price-book  (Stock Price	Book Value per Share)
+price-fcf   (Stock Price	TTM FCF per Share)
+
+
+Revenue and Profit
+
+revenue
+gross-profit
+operating-income
+ebitda
+net-income
+eps-earnings-per-share-diluted
+shares-outstanding
+
+
+Other Ratios
+
+current-ratio
+quick-ratio
+debt-equity-ratio
+roe
+roa
+roi
+return-on-tangible-equity
+
+
+Margins
+
+gross-margin
+profit-margins
+operating-margin
+ebitda-margin
+net-profit-margin
+pre-tax-profit-margin
+
+
+
